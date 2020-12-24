@@ -9,7 +9,8 @@
 ### c. Tracking
 
 ### d. Deep Learning
-* [Deep Lizard](deeplizard.com)
+* [Deep Lizard](deeplizard.com): Videos for basic concepts.
+* [Differet Network Architectures](https://github.com/mrgloom/awesome-semantic-segmentation): Resource pointing to many other architectures.
 
 ### e. Lidar Specific
 
