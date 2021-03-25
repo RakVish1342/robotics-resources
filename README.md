@@ -29,6 +29,7 @@
 
 
 ## 6. Miscellaneous
+* [Wang Yimu's Blog](https://wang-yimu.com/personal/): Least Squares, Applied Math, Deep Learning for Robotics.
 
 
 ## 7. Stack Overflow Answers
