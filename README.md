@@ -22,6 +22,9 @@
 
 
 ## 4. Path Planning
+* Steven M LaValle book
+* [Frenet Coordinates applied to Reference Path and Desired/Relative Path](https://fjp.at/posts/optimal-frenet/) 
+* [TNB Coordinate Frame or Frenet-Serret Frame](https://www.youtube.com/watch?v=VIqA8U9ozIA): Defines the twist/torsion/bending of 2D surfaces/2D curves (Extension of/Analogous to how curvature defines the bending of a line in 1D). This description of "bending behaviour" might be the reason for the use of Frenet system in lane line description.
 
 
 ## 5. Control Systems
